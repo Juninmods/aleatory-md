@@ -5,14 +5,14 @@ return `
 Primeiramente, ative o bot no termux ou onde for e vá para o WhatsApp do bot em uma conversa privada. Utilize os seguintes comandos:
 
 --- Para alterar o nome do bot ---
-${prefixo}nome-bot <Nome desejado>
+${prefixo}nome-bot <Junin_bot>
 Você pode usar letras modificadas também. 🙂
 
 --- Apelido do Dono do Bot ---
-${prefixo}nick-dono <Seu apelido>
+${prefixo}nick-dono <@Adrielzzz300>
 
 --- Configurar o número do dono ---
-${prefixo}numero-dono <Seu número>
+${prefixo}numero-dono <5511949928688>
 O número deve ser digitado junto, sem o símbolo de + ou -, e sem o 9 da operadora. Deve ser idêntico ao seu número do WhatsApp.
     
 Lembre-se, você deve utilizar o próprio WhatsApp e número do bot para configurar o número de dono, porque só ele é dono dele mesmo enquanto não for configurado.
